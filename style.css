@@ -1,0 +1,7 @@
+body { background: #f41f60; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 55px; display: flex; }
+.block-filter-0 { color: #36a8fc; font-size: 12px; margin-bottom: 5px; }
+.block-metrics-1 { color: #6728b5; font-size: 20px; margin-bottom: 5px; }
+.block-session-2 { color: #a05073; font-size: 15px; margin-bottom: 5px; }
+.block-cluster-3 { color: #6d7104; font-size: 20px; margin-bottom: 5px; }
+.block-sms-4 { color: #dcf27e; font-size: 17px; margin-bottom: 5px; }
